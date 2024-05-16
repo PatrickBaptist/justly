@@ -1123,13 +1123,13 @@ footer {
     }
 
     .attorney-container {
-        height: 400px;
+        width: 100%;
+        height: 600px;
     }
 
     .attorney-img {
-        margin-left: 10px;
-        width: 90%;
-        height: 390px;
+        width: 100%;
+        height: 100%;
     }
 
     .our-services-container {
